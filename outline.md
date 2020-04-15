@@ -80,7 +80,7 @@ After a primer on modern AI and ML, we'll finally get back to the example we saw
 * *Exercise: modify the parameters of a K-NN model and evaluate the changing performance.*
 * *Exercise: use Scikit Learn to build a predictive model using a different algorithm.*
 
-6. Kaggle Mini-Hackathon
+## 6. Kaggle Mini-Hackathon
 
 In the final class students will be presented with a Kaggle challenge and asked to use what they've learned in class to:
 
