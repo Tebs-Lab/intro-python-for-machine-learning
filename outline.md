@@ -31,8 +31,9 @@ This class begins with the end by examining the code we hope to write and fully 
 * Why Python? How is it different from other languages?
 * Variables and data types
 * Combining data with operations
-* *Exercise: Use a debugger to examine code examples.* 
-* *Exercise: Write your first a simple script.*
+* Exercise: 
+    * Write and run your first simple script.
+    * Use a debugger to examine code examples.
 
 ## 2. Complex Data and Control Flow
 
@@ -82,9 +83,4 @@ After a primer on modern AI and ML, we'll finally get back to the example we saw
 
 ## 6. Kaggle Mini-Hackathon
 
-In the final class students will be presented with a Kaggle challenge and asked to use what they've learned in class to:
-
-* Dowload the dataset.
-* Create a predictive model.
-* Evaluate their model's performance.
-* And (briefly) present their results to the rest of the class.
+In the previous class students will have been presented with a Kaggle challenge and asked to build and train a model to complete the challenge. In this class students will each give a brief presentation about their work, results, and what they learned.
