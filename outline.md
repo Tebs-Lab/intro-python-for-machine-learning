@@ -43,9 +43,10 @@ Modern programs, especially machine learning programs, rely on large complex dat
 * Control Flow (if/elif/else)
 * Looping
 * Scope
-* *Exercise: create and modify lists and dictionaries*
-* *Exercise: search for items in a list*
-* *Exercise: create, modify, and select from nested lists and dictionaries*
+* Exercise: 
+    * create and modify lists and dictionaries
+    * Exercise: search for items in a list
+    * Exercise: create, modify, and select from nested lists and dictionaries
 
 
 ## 3. Functions and Classes
