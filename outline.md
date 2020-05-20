@@ -19,7 +19,6 @@ Students who take this class will be able to:
 * Describe artificial intelligence and machine learning at a high level.
 * Use Scikit Learn to perform ML tasks.
 
-
 # Course Outline
 
 ## 1. The Big Picture and The Very Basics
@@ -42,27 +41,25 @@ Modern programs, especially machine learning programs, rely on large complex dat
 * Lists and dictionaries
 * Control Flow (if/elif/else)
 * Looping
-* Scope
 * Exercise: 
     * create and modify lists and dictionaries
     * Exercise: search for items in a list
     * Exercise: create, modify, and select from nested lists and dictionaries
 
-
 ## 3. Functions and Classes
 
-In Python (and most other programming languages) there are two fundamental ways to organize code into logical units: functions and classes. Reusing blocks of code and creating complex data structures both rely heavily on the existance of functions and classes. Similarly, the libraries that programmers use to execute AI and ML workloads are organized into importable functions and classes.
+In Python (and most other programming languages) there are two fundamental ways to organize code into logical units: functions and classes. Reusing blocks of code and creating complex data structures both rely heavily on the existence of functions and classes. Similarly, the libraries that programmers use to execute AI and ML workloads are organized into importable functions and classes.
 
 * Functions
 * Classes
 * Code reuse
-* Complex data
-* *Exercise: create and use functions to process data*
-* *Exercise: create and use classes to manage complex data and processes*
+* Exercise:
+    * Create and use functions to process data
+    * Create and use classes to manage complex data and processes
 
 ## 4. Working With Libraries and APIs Part 1
 
-Python is popular for machine learning in no small part due to the wealth of available open source libraries and APIs focused on ML tasks. The ecosysten surrounding the language is at least as important as the language itself in terms of how the language ends up being used in the software industry.
+Python is popular for machine learning in no small part due to the wealth of available open source libraries and APIs focused on ML tasks. The ecosystem surrounding the language is at least as important as the language itself in terms of how the language ends up being used in the software industry.
 
 * Importing and using libraries and modules.
 * Reading documentation. 
@@ -71,7 +68,7 @@ Python is popular for machine learning in no small part due to the wealth of ava
 * *Exercise: use Jupyter Notebook and numpy to perform descriptive statistics.*
 * *Exercise: use Jupyter Notebook and matplotlib to create charts.*
 
-## 5. AI/ML In Python 1
+## 5. AI/ML In Python
 
 After a primer on modern AI and ML, we'll finally get back to the example we saw in the first class. With our expanded understanding of Python and the foundations of computer programming, students will be challenged to expand on that example by building an additional model and adding useful charts.
 
