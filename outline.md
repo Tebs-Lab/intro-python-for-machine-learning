@@ -42,9 +42,9 @@ Modern programs, especially machine learning programs, rely on large complex dat
 * Control Flow (if/elif/else)
 * Looping
 * Exercise: 
-    * create and modify lists and dictionaries
-    * Exercise: search for items in a list
-    * Exercise: create, modify, and select from nested lists and dictionaries
+    * Create and modify lists and dictionaries
+    * Search for items in a list
+    * Create, modify, and select from nested lists and dictionaries
 
 ## 3. Functions and Classes
 
@@ -65,8 +65,8 @@ Python is popular for machine learning in no small part due to the wealth of ava
 * Reading documentation. 
 * Searching for tutorials and answers to questions.
 * Using Jupyter Notebooks vs a text editor.
-* *Exercise: use Jupyter Notebook and numpy to perform descriptive statistics.*
-* *Exercise: use Jupyter Notebook and matplotlib to create charts.*
+* Exercise: 
+    * Use Jupyter Notebook, Pandas, and Matplotlib to perform descriptive statistics and create charts.
 
 ## 5. AI/ML In Python
 
@@ -75,10 +75,12 @@ After a primer on modern AI and ML, we'll finally get back to the example we saw
 * What are artificial intelligence and machine learning?
 * What is supervised learning?
 * Scikit-learn's API.
+* Test/train/validation data splits.
 * The K-nearest Neighbor algorithm.
-* *Exercise: modify the parameters of a K-NN model and evaluate the changing performance.*
-* *Exercise: use Scikit Learn to build a predictive model using a different algorithm.*
+* Exercise:
+    * Modify the parameters of a K-NN model and evaluate the changing performance.
+    * Use Scikit Learn to build a predictive model using a different algorithm.
 
-## 6. Kaggle Mini-Hackathon
+## 6. Kaggle Challenge Presentations
 
 In the previous class students will have been presented with a Kaggle challenge and asked to build and train a model to complete the challenge. In this class students will each give a brief presentation about their work, results, and what they learned.
