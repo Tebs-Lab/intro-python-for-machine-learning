@@ -16,5 +16,6 @@ After a primer on modern AI and ML, we'll finally get back to the example we saw
 ## Suggested Pre-Reading
 
 * Intro to Machine Learning: [https://towardsdatascience.com/introduction-to-machine-learning-for-beginners-eed6024fdb08](https://towardsdatascience.com/introduction-to-machine-learning-for-beginners-eed6024fdb08)
+* Test vs Validation Data: [https://machinelearningmastery.com/difference-test-validation-datasets/](https://machinelearningmastery.com/difference-test-validation-datasets/)
 * Intro to scikit learn: [https://towardsdatascience.com/an-introduction-to-scikit-learn-the-gold-standard-of-python-machine-learning-e2b9238a98ab](https://towardsdatascience.com/an-introduction-to-scikit-learn-the-gold-standard-of-python-machine-learning-e2b9238a98ab)
 * The K-nearest Neighbors Algorithm: [https://towardsdatascience.com/laymans-introduction-to-knn-c793ed392bc2](https://towardsdatascience.com/laymans-introduction-to-knn-c793ed392bc2)
