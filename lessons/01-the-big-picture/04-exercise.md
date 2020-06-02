@@ -20,8 +20,8 @@ Specifically, write a script that does the following:
 * Add the two numbers together and store the result in a new variable.
 * Use string concatenation to add some text to the string variable and store the result back into the original variable.
     * Hint `+=` works for strings too!
-* Use the "bang" operator `!` on your boolean variable and see what it does.
-    * Hint: If your variable is named `the_truth` then try `print(!the_truth)`
+* Use the "not" operator `not` on your boolean variable and see what it does.
+    * Hint: If your variable is named `the_truth` then try `print(not the_truth)`
 * Try to use the `+` operator with variables that don't have the same type. Specifically try all of these combinations:
     * Combine the boolean and a number.
     * Combine a string and a number.
