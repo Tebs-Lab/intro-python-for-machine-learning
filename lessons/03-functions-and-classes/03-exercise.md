@@ -39,7 +39,7 @@ You should be able to use your function like this:
 
 ```python
 numbers = [5, 10, 15]
-m = mean(numbers)
+m = median(numbers)
 print(m) # 10
 ```
 
@@ -73,6 +73,6 @@ Example use, when your class is complete you should be able to use it as follows
 
 ```python
 avgs = Averages([5,10,15])
-print(avgs.mean())) # 10
+print(avgs.mean()) # 10
 print(avgs.median()) # 10
 ```
