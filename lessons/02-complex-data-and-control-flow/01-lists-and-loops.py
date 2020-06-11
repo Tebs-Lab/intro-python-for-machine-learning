@@ -9,7 +9,7 @@ l_one = [1, 2, 3, 4, 5, 6]
 l_two = ['a', 'b', 'c', 'd', 'e', 'f']
 
 # We choose the order, so this is perfectly allowed:
-l_three = [6, 1, 2 , 5, 4, 3]
+l_three = [6, 1, 2, 5, 4, 3]
 
 # We can fetch a particular item from the list using "bracket notation"
 # Programmers pronounce this line of code "print l_one sub zero" and it
@@ -48,6 +48,16 @@ for i in l_three:
 print("\nenumerate")
 for index, value in enumerate(l_two):
     print(index, value, l_two[index-1])
+
+# We can nest loops by placing one loop indentend inside another.
+# In this case the inner loop runs to completion once per outer loop. 
+# The range function (essentially) creates a list starting at 0 with
+# the numebr of items specified, for example range(3) => [0, 1, 2].
+for i in range(10):
+    print(i)
+    
+    for j in range(10):
+        print ("   ", j)
 
 # Lists have many useful functions built in that we can use, such as 
 # append for adding an item to the end of a list, and the len function

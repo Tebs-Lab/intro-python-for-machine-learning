@@ -9,7 +9,7 @@ empty_dictionary = {}
 key_examples = {
     "tyler": 75,
     1: "24",
-y    None: [1, 2, 3, 'Ghastly Business']
+    None: [1, 2, 3, 'Ghastly Business']
 }
 
 # We can also add new key/value pairs using bracket notation:
