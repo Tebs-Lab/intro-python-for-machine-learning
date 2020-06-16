@@ -29,11 +29,11 @@ Find the answer to each of these questions:
 
 Create the following charts:
 
-* A boxplot showing how many properties were sold in each borough.
+* A bar chart showing how many properties were sold in each borough.
     * Use the data documentation to find the names of each borough rather than the 1-5 values.
 * A pie chart showing the share of sales by borough.
     * Use the data documentation to find the names of each borough rather than the 1-5 values.
-* A boxplot showing the average (mean) sale price of property in each zip code.
+* A bar chart showing the average (mean) sale price of property in each zip code.
 * A scatterplot showing the sales price by the gross square feet.
     * **Bonus points**: show the least squares regression line as well!
 
