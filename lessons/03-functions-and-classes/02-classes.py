@@ -4,7 +4,8 @@
 # useful functions for fitting/training the model and using it to make
 # predictions.
 
-# Classes are used throughout the programming industry, not jut by ML
+
+# Classes are used throughout the programming industry, not just by ML
 # folks.
 
 class SimpleLinearRegression:
