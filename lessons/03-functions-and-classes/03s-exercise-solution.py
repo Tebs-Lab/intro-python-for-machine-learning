@@ -23,7 +23,7 @@ def median(input_list):
     elif n % 2 == 0:
         a = sorted_list[n // 2]
         b = sorted_list[n // 2 + 1]
-        return (sorted_list[n // 2 - 1] + sorted_list[n // 2]) / 2
+        return (a + b) / 2
     # Odd case
     else:
         return sorted_list[n // 2]
@@ -53,7 +53,7 @@ class Averages:
         elif n % 2 == 0:
             a = sorted_list[n // 2]
             b = sorted_list[n // 2 + 1]
-            return (sorted_list[n // 2 - 1] + sorted_list[n // 2]) / 2
+            return (a + b) / 2
         # Odd case
         else:
             return sorted_list[n // 2]
