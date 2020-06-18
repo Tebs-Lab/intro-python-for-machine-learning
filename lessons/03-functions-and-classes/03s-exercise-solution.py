@@ -22,7 +22,7 @@ def median(input_list):
     # Even case
     elif n % 2 == 0:
         a = sorted_list[n // 2]
-        b = sorted_list[n // 2 + 1]
+        b = sorted_list[n // 2 - 1]
         return (a + b) / 2
     # Odd case
     else:
@@ -52,7 +52,7 @@ class Averages:
         # Even case
         elif n % 2 == 0:
             a = sorted_list[n // 2]
-            b = sorted_list[n // 2 + 1]
+            b = sorted_list[n // 2 - 1]
             return (a + b) / 2
         # Odd case
         else:
