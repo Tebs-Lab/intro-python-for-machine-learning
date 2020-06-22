@@ -33,7 +33,7 @@ Build at least 6 different versions of the KNN model using different hyperparame
 
 Before you evaluate their performance, form a hypothesis about which models you think will perform best and why. One you've evaluated the models, revisit your hypothesis: Was your intuition right? What surprised you? Can you explain your results?
 
-> Hint: Look at the documentation for Sklearn's KNNClassifier for a list of hyperparamters and their possible values [https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html(https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html).
+> Hint: Look at the documentation for Sklearn's KNNClassifier for a list of hyperparamters and their possible values [https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html).
 
 **Bonus Challenge:** Use "Grid Search" to find the best hyperparameter combination [https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html)
 
