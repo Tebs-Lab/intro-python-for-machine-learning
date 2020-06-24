@@ -9,7 +9,7 @@ This exercise is meant to help you practice:
 
 # The Exercise
 
-In this exercise you'll build several different machine learning models using `sklearn` and evaluate their performance using the UCI Breast Cancer dataset (provided in this repo).
+In this exercise you'll build several different machine learning models using `sklearn` and evaluate their performance using the UCI Heart Disease dataset (provided in this repo).
 
 ## Part One: Split your data
 
