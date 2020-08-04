@@ -39,4 +39,4 @@ for key, value in key_examples.items():
 # Micro-Exercise: nested inside of key_examples is the value
 # "Ghastly Business". Write a line of code that accesses that value,
 # stores it into a variable, and then prints the value of that variable
-# to a string. You should use "bracket notation" or the .get function
+# to the console. You should use "bracket notation" or the .get function
