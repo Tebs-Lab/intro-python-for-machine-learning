@@ -21,12 +21,12 @@ def median(input_list):
         return None
     # Even case
     elif n % 2 == 0:
-        a = sorted_list[n // 2]
-        b = sorted_list[n // 2 - 1]
+        a = sorted_list[n / 2]
+        b = sorted_list[n / 2 - 1]
         return (a + b) / 2
     # Odd case
     else:
-        return sorted_list[n // 2]
+        return sorted_list[n // 2] # Note: Integer division is needed for odd n
 
 # Provided test, you should add more.
 numbers = [5, 10, 15]
@@ -51,12 +51,12 @@ class Averages:
             return None
         # Even case
         elif n % 2 == 0:
-            a = sorted_list[n // 2]
-            b = sorted_list[n // 2 - 1]
+            a = sorted_list[n / 2]
+            b = sorted_list[n / 2 - 1]
             return (a + b) / 2
         # Odd case
         else:
-            return sorted_list[n // 2]
+            return sorted_list[n // 2] # Note: Integer division is needed for odd n
 
 
 
