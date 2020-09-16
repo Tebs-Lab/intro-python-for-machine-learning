@@ -68,7 +68,7 @@ Python is popular for machine learning in no small part due to the wealth of ava
 * Exercise: 
     * Use Jupyter Notebook, Pandas, and Matplotlib to perform descriptive statistics and create charts.
 
-## 5. AI/ML In Python
+## 5. AI/ML In Python and K-Nearest Neighbors
 
 After a primer on modern AI and ML, we'll finally get back to the example we saw in the first class. With our expanded understanding of Python and the foundations of computer programming, students will be challenged to expand on that example by building an additional model and adding useful charts.
 
@@ -81,6 +81,39 @@ After a primer on modern AI and ML, we'll finally get back to the example we saw
     * Modify the parameters of a K-NN model and evaluate the changing performance.
     * Use Scikit Learn to build a predictive model using a different algorithm.
 
-## 6. Kaggle Challenge Presentations
+## 6. Decision Trees, Random Forests, and Hyper-Parameter Search
+
+In this class we'll introduce two more models, the Decision Tree and the Random Forest. We'll also introduce the concept of "hyper-parameter search" — a widely used tactic to decide which hyper-parameters are most effective for a given dataset.
+
+* The Decision Tree algorithm
+* Ensemble models
+* Bagging
+* Random Forests
+* Hyper-parameter search
+* Exercise:
+    * Apply grid search with decision trees and random forests.
+
+## 7. Back To The Big Picture: Further Study and What Can Go Wrong
+
+Machine learning is powerful, the state of the art in ML is pushing boundaries in everything from language translation to facial recognition. In this final class we'll name some of the big topics we didn't have time to cover in class, discuss the current state of the art, 
+and provide some sign-posts for your continuing journey in machine learning.
+
+Machine learning is also dangerous. Many uses of machine learning tactics have been found to perpetuate and even exacerbate societal bias. As we discuss some of the most advanced ML tactics, we'll also discuss some cautionary tales about ML gone awry and advice for avoiding these pitfalls. 
+
+* Popular ML use cases.
+    * Facial recognition.
+    * Language translation.
+    * Fraud and spam detection.
+    * Recommendation systems.
+    * Generative models. 
+* Prominent ML failures and some causes.
+    * Class imbalance.
+    * Assumed objectivity.
+    * Poor data quality.
+    * Adversarial data.
+* Exercise: 
+    * Work on your Kaggle challenge.
+
+## 8. Kaggle Challenge Presentations
 
 In the previous class students will have been presented with a Kaggle challenge and asked to build and train a model to complete the challenge. In this class students will each give a brief presentation about their work, results, and what they learned.
