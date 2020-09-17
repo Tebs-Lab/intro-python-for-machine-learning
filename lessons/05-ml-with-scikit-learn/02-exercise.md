@@ -1,4 +1,4 @@
-# Exercise: Exploring Data With Jupyter, Pandas, and Matplotlib
+# Exercise: Building Models With Scikit Learn
 
 This exercise is meant to help you practice:
 

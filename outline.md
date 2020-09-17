@@ -1,6 +1,6 @@
 # Course Description
 
-This class is targeted at aspiring programmers who are learning their first programming language. It may be appropriate for programmers who currently at beginner-intermediate level in another programming language, and want to get a jump start in learning Python. Such students will also clarify their understanding of what aspects of programming languages are broadly shared among languages, and which are idiosyncratic to whatever language they already speak. 
+This class is targeted at aspiring programmers who are learning their first programming language. It may be appropriate for programmers who are currently at beginner-intermediate level in another programming language, and want to get a jump start in learning Python. Such students will also clarify their understanding of what aspects of programming languages are broadly shared among languages, and which are idiosyncratic to whatever language they already speak. 
 
 The majority of this course is dedicated to learning foundational aspects of programming. However, it is often easier to elucidate these through concrete examples. Many of the examples are geared towards applications in analytics, statistics, and artificial intelligence. This focus skews the class slightly, but students will still build a strong enough foundation to learn domain specific skills. It also means, a little bit of prior statistics knowledge will be helpful during the last two classes. 
 
