@@ -3,6 +3,7 @@
 In this class we'll introduce two more models, the Decision Tree and the Random Forest. We'll also introduce the concept of "hyper-parameter search" — a widely used tactic to decide which hyper-parameters are most effective for a given dataset.
 
 ## Class Topics
+
 * The Decision Tree algorithm
 * Ensemble models
 * Bagging
