@@ -6,7 +6,12 @@ and provide some sign-posts for your continuing journey in machine learning.
 Machine learning is also dangerous. Many uses of machine learning tactics have been found to perpetuate and even exacerbate societal bias. As we discuss some of the most advanced ML tactics, we'll also discuss some cautionary tales about ML gone awry and advice for avoiding these pitfalls. 
 
 ## Class Topics
-
+* Prominent ML failures and some causes.
+    * Class imbalance.
+    * Assumed objectivity.
+    * Poor data quality.
+    * Adversarial data.
+    * Matters of privacy.
 * Popular ML use cases.
     * Facial recognition.
     * Language translation.
@@ -15,12 +20,6 @@ Machine learning is also dangerous. Many uses of machine learning tactics have b
     * Generative models. 
     * Self operating vehicles & robotics control.
     * Playing games. 
-* Prominent ML failures and some causes.
-    * Class imbalance.
-    * Assumed objectivity.
-    * Poor data quality.
-    * Adversarial data.
-    * Matters of privacy.
 * Exercise: 
     * Work on your Kaggle challenge.
 
