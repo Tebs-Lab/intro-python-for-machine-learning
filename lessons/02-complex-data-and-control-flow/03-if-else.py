@@ -31,7 +31,7 @@ elif arbitrary_number < 30:
 else:
     print("The number is 30 or larger")
 
-# comparisions can be combined using and / or
+# comparisons can be combined using and / or
 # they can also be negated with not
 if not arbitrary_number > 10:
     print("The number is NOT greater than 10.")

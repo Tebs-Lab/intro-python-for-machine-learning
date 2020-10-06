@@ -16,7 +16,7 @@ def add(parameter_one, parameter_two):
 def returns_none_and_does_nothing():
     pass
 
-# We call, or envoke, functions with a similar syntax:
+# We call, or invoke, functions with a similar syntax:
 x = compute_two()
 y = add(2, 3)
 z = returns_none_and_does_nothing()
