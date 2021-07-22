@@ -49,4 +49,4 @@ At the start of each class, review the exercise with the students. Ask the stude
 
 ## Support Teb's Lab
 
-These materials were created by [Tyler Bettilyon](https://www.linkedin.com/in/tylerbettilyon/) and [Teb's Lab](https://tebs-lab.com). You can support the creation of more free, open source, public domain educational materials by sharing them with others, [subscribing to our newsletter](http://eepurl.com/dum8IP) or becoming a subscriber on [Patreon](https://www.patreon.com/tebsLab).
+These materials were created by [Tyler Bettilyon](https://www.linkedin.com/in/tylerbettilyon/) and [Teb's Lab](https://tebs-lab.com). You can support the creation of more free, open source, public domain educational materials by sharing them with others, or [subscribing to our newsletter](http://eepurl.com/dum8IP).
